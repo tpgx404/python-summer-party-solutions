@@ -1,6 +1,6 @@
 # Python Summer Party Notebooks
 
-This repository contains my completed notebooks from Interview Master's Python Summer Party challenge. It's intended for recruiters, peers, and learners to review my approach to data analysis problems using pandas and numpy. This project was developed with the help of AI tools for generating and structuring code. All code was reviewed, modified, and tested by me to ensure it fits the project requirements, but I treated them only as learning aids and plan to revisit the code to strengthen my understanding.
+This repository contains my completed notebooks from Interview Master's Python Summer Party challenge. It's intended for recruiters, peers, and learners to review my approach to data analysis problems using pandas and numpy. This project was developed with the help of AI tools for generating and structuring code. All code was reviewed, modified, and tested by me to ensure it fits the project requirements, but I treated them only as learning aids and plan to revisit the code to strengthen my understanding. 
 
 
 
